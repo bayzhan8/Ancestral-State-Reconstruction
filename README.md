@@ -39,5 +39,7 @@ Research Article: Heled, J., Bouckaert, R.R. Looking for trees in the forest: su
 
 Software used: Cross-platform program for Bayesian analysis of molecular sequences using MCMC (BEAST) - https://beast.community/index.html
 
-
-
+-------
+Contact Info:
+bayzhan.mukatay@gmail.com
+https://www.linkedin.com/in/bayzhan-mukatay/
