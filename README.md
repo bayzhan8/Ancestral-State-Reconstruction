@@ -1,5 +1,5 @@
 # Approaches-for-Ancestral-State-Reconstruction-of-Cancerous-Cells
-Research Project from Summer Undergraduate Research Fellowship (SURF) at Rice University
+Research Project | Summer Undergraduate Research Fellowship (SURF) | Rice University
 
 BAYZHAN MUKATAY, HUW A. OGILVIE, YUSHU LIU, ZHI YAN  
 Department of Computer Science, Rice University, Houston, TX, USA
