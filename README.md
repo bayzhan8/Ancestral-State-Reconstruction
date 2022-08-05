@@ -25,7 +25,7 @@ Analysis.ipynb - In this notebook, I assessed the reconstruction method by compa
 
 Tanglegram Vizualization.ipynb — In this notebook, I made a tanglegram as a visual aid for comparing the true tree witht the MCC tree
 
-Reconstruct.py — a piece of code that reconstructes the ancestral states for each of the sampled 8000 trees and saves them in a "reconstructed" folder
+Reconstruct.py — a piece of code that reconstructes the ancestral states for each of the sampled 8000 trees and saves them in a "reconstructed" folder. This requires a lot of computaional power 
 
 ## Ancestral State Reconstruction Algorithm:
 Research article: Pupko, Tal, et al. “A Fast Algorithm for Joint Reconstruction of Ancestral Amino Acid Sequences.” Molecular Biology and Evolution, vol. 17, no. 6, June 2000, pp. 890–96, https://doi.org/10.1093/oxfordjournals.molbev.a026369.
