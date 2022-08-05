@@ -21,7 +21,7 @@ After that, I used the Tree Annotator function from the BEAST cross-platform pro
 
 Using the software for Computational Analysis of gene Family Evolution (CAFE5), I reconstructed the ancestral states of the cancerous cells.
 
-Analysis.ipynb - In this notebook, I assessed the reconstruction method by comparing the CNAs of internal nodes of the ground truth tree and the reconstructed summary tree.
+Analysis.ipynb — In this notebook, I assessed the reconstruction method by comparing the CNAs of internal nodes of the ground truth tree and the reconstructed summary tree.
 
 Tanglegram Vizualization.ipynb — In this notebook, I made a tanglegram as a visual aid for comparing the true tree witht the MCC tree
 
@@ -30,16 +30,19 @@ Reconstruct.py — a piece of code that reconstructes the ancestral states for e
 ## Ancestral State Reconstruction Algorithm:
 Research article: Pupko, Tal, et al. “A Fast Algorithm for Joint Reconstruction of Ancestral Amino Acid Sequences.” Molecular Biology and Evolution, vol. 17, no. 6, June 2000, pp. 890–96, https://doi.org/10.1093/oxfordjournals.molbev.a026369.
  
-Software used: Software for Computational Analysis of gene Family Evolution (CAFE5) - https://github.com/hahnlab/CAFE5
+Software used: Software for Computational Analysis of gene Family Evolution (CAFE5) — https://github.com/hahnlab/CAFE5
 
 
 
 ## Maximal Clade Credibility Tree (MCC) / Summary tree
 Research Article: Heled, J., Bouckaert, R.R. Looking for trees in the forest: summary tree from posterior samples. BMC Evol Biol 13, 221 (2013). https://doi.org/10.1186/1471-2148-13-221
 
-Software used: Cross-platform program for Bayesian analysis of molecular sequences using MCMC (BEAST) - https://beast.community/index.html
+Software used: Cross-platform program for Bayesian analysis of molecular sequences using MCMC (BEAST) — https://beast.community/index.html
 
 -------
 Contact Info:
 bayzhan.mukatay@gmail.com
+
 https://www.linkedin.com/in/bayzhan-mukatay/
+
+https://www.instagram.com/bayzhan8/
