@@ -44,5 +44,3 @@ Software used: Cross-platform program for Bayesian analysis of molecular sequenc
 bayzhan.mukatay@gmail.com
 
 https://www.linkedin.com/in/bayzhan-mukatay/
-
-https://www.instagram.com/bayzhan8/
